@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(29,40): error C2664: 'int call_vsscanf(char *,char *,...)': cannot convert argument 2 from 'const char [5]' to 'char *'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(29,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(11,5): message : see declaration of 'call_vsscanf'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(30,39): error C2664: 'int call_vsscanf(char *,char *,...)': cannot convert argument 2 from 'const char [3]' to 'char *'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(30,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(11,5): message : see declaration of 'call_vsscanf'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(31,39): error C2664: 'int call_vsscanf(char *,char *,...)': cannot convert argument 2 from 'const char [3]' to 'char *'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(31,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(11,5): message : see declaration of 'call_vsscanf'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(32,40): error C2664: 'int call_vsscanf(char *,char *,...)': cannot convert argument 2 from 'const char [3]' to 'char *'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(32,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vsscanf-Bagian7__C\SK-Lib-stdio.h-vsscanf-Bagian7__C\Source.cpp(11,5): message : see declaration of 'call_vsscanf'
